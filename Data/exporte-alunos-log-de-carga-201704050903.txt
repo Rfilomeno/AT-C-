@@ -1,0 +1,8 @@
+matricula>2017a01; nome>Rodrigo; ativo>1; Adicionado;
+matricula>2017a02; nome>Filipe; ativo>1; Adicionado;
+matricula>2017a03; nome>Victor; ativo>1; Adicionado;
+matricula>2017a04; nome>Gabriel; ativo>0; Adicionado;
+matricula>2017a05; nome>Agatha; ativo>1; Adicionado;
+matricula>2017a06; nome>Mariana; ativo>0; Adicionado;
+matricula>2017a07; nome>Ana Clara; ativo>0; Adicionado;
+matricula>2017a08; nome>Claudio; ativo>0; Adicionado;

@@ -1,0 +1,11 @@
+matricula>2017a01; nome>Rodrigo; ativo>0; Alterado: ativo>1;
+matricula>2017a02; nome>Filipe; ativo>0; Alterado: ativo>1;
+matricula>2017a03; nome>Victor; ativo>1; OK;
+matricula>2017a04; nome>Gabriel; ativo>1; Alterado: ativo>0;
+matricula>2017a05; nome>Agatha; ativo>1; OK;
+matricula>2017a06; nome>Mariana; ativo>1; Alterado: ativo>0;
+matricula>2017a07; nome>Ana Clara; ativo>0; OK;
+matricula>2017a08; nome>Claudio; ativo>0; OK;
+matricula>2017a09; nome>Helma; ativo>1; Adicionado;
+matricula>2017a10; nome>Cleopatra; ativo>0; Adicionado;
+matricula>2017a11; nome>Thais; ativo>0; Adicionado;
